@@ -1,0 +1,29 @@
+/*Extra large display*/
+@media only screen and (max-width:1200px){
+
+}
+/*Large display*/
+@media only screen and (max-width: 992px){
+	.worl--img{
+		flex-direction: column!important;
+	}
+	.worked{
+		background: inherit!important;
+		
+	}
+	.close-my{
+		color:#212121!important;
+	}
+	.worked p:nth-child(2){
+		color: #fff!important;
+	}
+
+}
+/*Medium display*/
+@media only screen and (max-width: 768px){
+
+}
+/*Small display*/
+@media only screen and (max-width:576px){
+
+}
